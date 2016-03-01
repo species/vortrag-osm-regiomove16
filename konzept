@@ -1,0 +1,57 @@
+vorstellung mich
+
+~10min vorstellung OSM
+  ich
+  geschichte osm
+  facts (users, OSMF, ...)
+  datenbank-struktur (mirroring etc)
+  datenstruktur
+  Lizenz
+    add: virale Lizenz, damit wird sichergestellt, dass Verbesserungen an den Daten nicht in den Silos von Konzernen verschwinden, sondern der Allgemeinheit weiter zur Verfügung stehen
+  wie daten bekommen?
+    alles: API, planetfile
+    query: Overpass
+    Länderextrakte, auch Shapes: Geofabrik
+
+  Dienste:
+    Kartenserver (Tileserver)
+    Geocoding
+    Routing... überleitung 2. Teil
+
+
+10min: selbsterfasste Daten als Grundlage für Navigation
+  was wird erfasst?
+    alles, aber heute Thema Straßen&Wege
+  
+  wegtypen
+  geschwindigkeitsbegrenzungen
+  abbiegebeschränkungen
+  fahrspuren
+
+  Baustellen!
+
+  router: 
+    OSRM
+    openrouteservice.org
+    YOURS, graphhopper, ...
+    Apps: 
+
+  unterschiedliche routingprofile
+    Auto
+    LKW (tonnage!, höhe, breite)
+    Fahrrad (city, MTB, ...)
+    Fußgänger
+    und Mobilitätseingeschränkte!
+
+  soll ich ISTmobil erwähnen?
+
+  best practise wheelchair routing
+    Erfassung
+      Extra Wege
+      Kerbs
+      Surface, 
+
+Michael Maier beschäftigt sich seit 2010 mit OpenStreetMap und ist seit einigen Jahren auch als Consultant in dem Bereich tätig.
+Folgende Themen werden im Vortrag behandelt:
+Zuerst eine kurze Einführung zu OpenStreetMap: Die Beweggründe, Geschichtliches, Organisation, sowie technisches zur Datenstruktur, Lizenz und wie man zu den Rohdaten kommt.
+Danach steigen wir in das Thema der Navigation mit OpenStreetMap ein: Wegtypen, Beschränkungen, Fahrspuren sowie Baustellen. Es folgt ein kurzer Überblick über mögliche Software zur Navigation, und endet mit einem Beispiel, wie Routing für mobilitätseingeschränkte Personen mit OSM möglich ist.
